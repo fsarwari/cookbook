@@ -37,6 +37,10 @@ you can't fit the logstash agent.
 
 Ways to speed up the logstash startup time.
 
+## [windows service](recipes/windows-service/)
+
+Start logstash as a windows service.
+
 ### Contribute!
 
 This cookbook is for and by the logstash community. You can help! Click the
